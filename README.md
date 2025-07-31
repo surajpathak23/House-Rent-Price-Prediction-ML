@@ -1,0 +1,2 @@
+# House-Rent-Price-Prediction-ML-with-Linear-Regression
+This project aims to predict monthly house rent prices based on various property features using Linear Regression. The dataset contains 10,000 synthetic entries with features such as number of bedrooms, area, furnishing status, location rating, and more. The project includes detailed Exploratory Data Analysis (EDA), model training, and evaluation.

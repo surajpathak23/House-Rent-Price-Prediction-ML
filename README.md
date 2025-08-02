@@ -67,14 +67,14 @@ To build a predictive model that estimates monthly rent prices for houses based 
 - **Train/Test Split:** 80/20
 
 ---
-
+```
 ## 📂 Project Structure
 ├── house_rent_price_dataset.csv
 ├── final_house_rent_predictions.xlsx
 ├── House_Rent_Price_Prediction.ipynb
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 

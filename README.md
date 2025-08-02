@@ -96,6 +96,5 @@ jupyter notebook House_Rent_Price_Prediction.ipynb
 ✍️ Author
 Suraj Kumar
 
-LinkedIn(https://www.linkedin.com/in/suraj-kumar-2307skp/)
-GitHub(https://github.com/surajpathak23/)
+- [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
 

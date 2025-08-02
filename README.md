@@ -92,9 +92,10 @@ jupyter notebook House_Rent_Price_Prediction.ipynb
 | ----------- | -------------- |
 | ₹22,000     | ₹21,500        |
 | ₹18,000     | ₹18,300        |
+```
 
 ✍️ Author
 Suraj Kumar
 
 - [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
-[LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/)
+
